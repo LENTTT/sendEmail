@@ -1,6 +1,6 @@
 <?php
 // Recipient email address
-$to = 'zaid@zsecurity.org';
+$to = 'valentinus.soejito.02@gmail.com';
 
 // Subject of the email
 $subject = 'Test';
